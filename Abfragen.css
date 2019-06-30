@@ -1,0 +1,10 @@
+#div1{
+    width: 50%;
+    border-style: solid;
+    border-radius: 25PX;
+    padding: 20PX;
+    margin-left: 10PX;
+}
+body{
+    background-color: #808080;
+}
